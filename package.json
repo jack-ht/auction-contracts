@@ -1,0 +1,28 @@
+{
+  "name": "@htsoft/auction-contracts",
+  "version": "1.0.0",
+  "description": "Aiza GameFi auction contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack-ht/auction-contracts.git"
+  },
+  "keywords": [
+    "Aiza",
+    "GameFi",
+    "Defi",
+    "PlayToEarn",
+    "Blockchain",
+    "Dapp",
+    "Smartcontract"
+  ],
+  "author": "Jack",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jack-ht/auction-contracts/issues"
+  },
+  "homepage": "https://github.com/jack-ht/auction-contracts#readme"
+}
