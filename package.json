@@ -1,6 +1,6 @@
 {
   "name": "@htsoft/auction-contracts",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "Aiza GameFi auction contracts",
   "private": false,
   "main": "./dist/index.js",
